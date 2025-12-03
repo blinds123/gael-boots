@@ -254,7 +254,7 @@ h1,h2,h3{font-family:'Cormorant Garamond',serif}
       "@type": "Offer",
       "url": "https://gael-boots.netlify.app/",
       "priceCurrency": "USD",
-      "price": "29",
+      "price": "19",
       "priceValidUntil": "2025-12-31",
       "availability": "https://schema.org/PreOrder",
       "itemCondition": "https://schema.org/NewCondition",
@@ -414,7 +414,7 @@ h1,h2,h3{font-family:'Cormorant Garamond',serif}
         </button>
 
         <button class="cta-btn cta-secondary fade-in visible" id="secondaryCTA" onclick="handleAddToCart('secondary')">
-          <span style="font-size:20px">PRE-ORDER - $29</span>
+          <span style="font-size:20px">PRE-ORDER - $19</span>
           <div class="btn-subtitle">Ships in 2-3 Weeks - Save $60</div>
         </button>
 
@@ -734,8 +734,8 @@ function closeOrderBumpPopup() {
 
 function acceptOrderBump() {
   closeOrderBumpPopup();
-  const amount = window.currentOrderType === 'primary' ? 59 : 29;
-  processOrder(amount);
+  // Order bump only shows for pre-orders, so always $29 (pre-order $19 + earrings $10)
+  processOrder(29);
 }
 
 function declineOrderBump() {
