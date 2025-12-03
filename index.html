@@ -845,6 +845,11 @@ function loadTestimonials() {
         const card = document.createElement('div');
         card.className = 'testimonial-card';
         card.innerHTML = `
+          ${testimonial.image ? `
+          <div class="testimonial-image-container">
+            <img class="testimonial-image" src="./images/testimonials/${encodeURIComponent(testimonial.image)}" alt="Customer photo from ${testimonial.name}" loading="lazy" style="width:100%;max-width:280px;height:auto;border-radius:12px;object-fit:cover;margin-bottom:16px">
+          </div>
+          ` : ''}
           <div class="testimonial-header">
             <div class="testimonial-info">
               <div class="testimonial-name">${testimonial.name}</div>
