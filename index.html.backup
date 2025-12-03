@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<title>Gael Studded Convertible Knee-High Boots - Luxe Faux Suede</title>
+<meta name="description" content="Gael Faux Suede Studded Convertible Kitten-Heel Knee-High Boots. Transform from boots to pumps. 60% OFF - Free shipping & 30-day returns.">
+<meta name="keywords" content="knee high boots, convertible boots, studded boots, kitten heel, faux suede boots, brown boots">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:type" content="product">
+<meta property="og:title" content="Gael Studded Convertible Knee-High Boots">
+<meta property="og:description" content="Luxe faux suede boots with convertible design. Detachable shafts transform into kitten-heel pumps. 60% OFF today!">
+<meta property="og:image" content="./images/product/prodsneaker12341 (6).jpg">
+
+<!-- Performance Meta -->
+<meta name="theme-color" content="#8B5A2B">
+<meta name="color-scheme" content="light">
+
+<!-- Critical Resource Hints -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Google Fonts - Luxury Typography -->
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Preload Critical Hero Image -->
+<link rel="preload" as="image" href="./images/product/prodsneaker12341 (6).jpg" type="image/jpeg" fetchpriority="high">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{font-family:'Montserrat',sans-serif;color:#1a1a1a;line-height:1.6;background:#fff;-webkit-font-smoothing:antialiased;overflow-x:hidden;max-width:100vw}
+img{max-width:100%;height:auto}
+h1,h2,h3{font-family:'Cormorant Garamond',serif}
+
+:root {
+  --color-primary: #8B5A2B;
+  --color-primary-dark: #6B4423;
+  --color-primary-darker: #5A3A1E;
+  --color-primary-darkest: #4A2F18;
+  --color-primary-rgb: 139, 90, 43;
+  --color-accent: #C4956A;
+  --color-cream: #FAF7F2;
+}
+
+.main-content{display:block}
+.announcement{background:var(--color-primary);color:#fff;text-align:center;padding:14px;font-size:15px;font-weight:700;position:relative;z-index:10;letter-spacing:0.5px;box-shadow:0 2px 8px rgba(var(--color-primary-rgb),0.2)}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;position:relative}
+.product-hero{display:grid;grid-template-columns:1fr 1fr;gap:60px;padding:40px 20px;align-items:start;min-height:500px}
+.gallery{position:sticky;top:20px;z-index:1}
+.main-img{width:100%;height:auto;border-radius:16px;aspect-ratio:3/4;object-fit:cover;background:#f8f8f8;will-change:transform;transition:opacity 0.3s ease;box-shadow:0 4px 20px rgba(var(--color-primary-rgb),0.12)}
+.product-info{position:relative;z-index:2}
+.product-info h1{font-size:clamp(32px,5vw,44px);font-weight:800;margin-bottom:12px;line-height:1.1;letter-spacing:-0.03em;color:#1a1a1a}
+.tagline{color:#555;font-size:clamp(17px,3vw,19px);margin-bottom:24px;font-weight:400;line-height:1.5}
+.price-box{display:flex;align-items:center;gap:12px;margin-bottom:12px;padding:10px 14px;background:linear-gradient(135deg,var(--color-cream) 0%,#F5EDE3 100%);border-radius:8px;border:2px solid var(--color-primary)}
+.price{font-family:'Montserrat',sans-serif;font-size:clamp(28px,6vw,36px);font-weight:700;color:var(--color-primary);letter-spacing:-0.02em}
+.old-price{font-size:clamp(16px,3vw,20px);color:#999;text-decoration:line-through;font-weight:600}
+.badge{background:#dc3545;color:#fff;padding:4px 10px;border-radius:16px;font-size:12px;font-weight:700;white-space:nowrap;animation:pulse-badge 2s infinite}
+
+/* Size Selector */
+.size-section{margin:24px 0}
+.size-label{font-weight:700;font-size:16px;margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.size-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.size-btn{font-family:'Montserrat',sans-serif;padding:14px 12px;border:2px solid #e0e0e0;background:#fff;border-radius:8px;cursor:pointer;font-weight:600;transition:all 0.3s cubic-bezier(0.4,0,0.2,1);font-size:14px;position:relative}
+.size-btn:not(:disabled):not(.sold-out):hover{border-color:var(--color-primary);transform:scale(1.05);box-shadow:0 4px 12px rgba(var(--color-primary-rgb),0.15)}
+.size-btn.selected{background:var(--color-primary);color:#fff;border-color:var(--color-primary);box-shadow:0 4px 12px rgba(var(--color-primary-rgb),0.3)}
+.size-btn:disabled,.size-btn.sold-out{opacity:0.4;cursor:not-allowed;background:#f5f5f5;position:relative}
+.size-btn.sold-out::after{content:'';position:absolute;top:50%;left:10%;right:10%;height:2px;background:#999;transform:rotate(-45deg)}
+
+/* CTA Buttons */
+.cta-btn{font-family:'Montserrat',sans-serif;width:100%;padding:22px 24px;font-size:20px;font-weight:700;border-radius:12px;border:none;cursor:pointer;margin-bottom:16px;transition:all 0.3s cubic-bezier(0.4,0,0.2,1);transform:translateZ(0);will-change:transform;position:relative;overflow:hidden;text-transform:uppercase;letter-spacing:0.5px;min-height:80px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.cta-btn::before{content:'';position:absolute;top:0;left:-100%;width:100%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,0.3),transparent);transition:left 0.6s ease;z-index:1;animation:shimmer 3s infinite}
+.cta-btn:hover::before{left:100%}
+.cta-primary{background:linear-gradient(135deg,var(--color-primary) 0%,var(--color-primary-dark) 50%,var(--color-primary-darker) 100%);color:#fff;box-shadow:0 4px 16px rgba(var(--color-primary-rgb),0.4),inset 0 1px 0 rgba(255,255,255,0.2);border:3px solid var(--color-primary-darkest)}
+.cta-primary:hover{transform:translateY(-3px) scale(1.01);box-shadow:0 12px 32px rgba(var(--color-primary-rgb),0.6),0 0 40px rgba(var(--color-primary-rgb),0.3)}
+.cta-primary:active{transform:translateY(0) scale(0.98)}
+.cta-primary:disabled{opacity:0.6;cursor:not-allowed;transform:none}
+.btn-subtitle{font-size:13px;font-weight:600;opacity:1;margin-top:6px;position:relative;z-index:2;text-transform:none;letter-spacing:0}
+
+/* Urgency Elements */
+.live-viewers{display:flex;align-items:center;gap:8px;background:var(--color-cream);padding:10px 16px;border-radius:8px;margin-bottom:16px;border:1px solid rgba(var(--color-primary-rgb),0.15)}
+.pulse-dot{width:10px;height:10px;background:#28a745;border-radius:50%;animation:pulse-dot 2s infinite}
+.stock-warning{background:#fff3cd;border-left:4px solid #ff6b35;padding:12px 16px;border-radius:8px;margin-bottom:16px;color:#856404;font-weight:700;font-size:15px}
+
+/* Sold Out Notification */
+.soldout-notification{position:fixed;top:20px;left:50%;transform:translateX(-50%) translateY(-100px);background:linear-gradient(135deg,#dc3545 0%,#c82333 100%);color:#fff;padding:16px 28px;border-radius:12px;font-weight:700;font-size:15px;box-shadow:0 8px 24px rgba(220,53,69,0.4);z-index:9999;opacity:0;transition:all 0.4s cubic-bezier(0.68,-0.55,0.265,1.55);display:flex;align-items:center;gap:12px;min-width:300px;justify-content:center}
+.soldout-notification.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.soldout-notification svg{width:24px;height:24px;flex-shrink:0}
+
+/* Thumbnails */
+.thumb-container{display:flex;gap:10px;margin-top:15px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:thin;padding-bottom:5px}
+.thumb{width:80px;height:100px;object-fit:cover;border-radius:8px;cursor:pointer;border:2px solid transparent;transition:all 0.3s ease;opacity:0.7}
+.thumb:hover{opacity:1;border-color:var(--color-accent)}
+.thumb.active{border-color:var(--color-primary);opacity:1;box-shadow:0 2px 8px rgba(var(--color-primary-rgb),0.3)}
+
+/* Features Section */
+.features-section{background:var(--color-cream);padding:60px 20px;margin-top:40px}
+.features-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:30px;max-width:1200px;margin:0 auto}
+.feature-card{text-align:center;padding:30px 20px;background:#fff;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04)}
+.feature-icon{font-size:40px;margin-bottom:16px}
+.feature-title{font-size:18px;font-weight:700;margin-bottom:8px;color:#1a1a1a}
+.feature-text{font-size:14px;color:#666;line-height:1.5}
+
+/* Product Details */
+.details-section{padding:60px 20px;max-width:1200px;margin:0 auto}
+.details-section h2{font-size:32px;font-weight:700;margin-bottom:30px;text-align:center}
+.details-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.detail-item{padding:20px;background:#f9f9f9;border-radius:12px}
+.detail-item h3{font-size:18px;font-weight:700;margin-bottom:12px;color:var(--color-primary)}
+.detail-item p,.detail-item ul{font-size:15px;color:#555;line-height:1.8}
+.detail-item ul{padding-left:20px}
+.detail-item li{margin-bottom:8px}
+
+/* Trust Badges */
+.trust-section{padding:40px 20px;background:#fff;border-top:1px solid #eee;border-bottom:1px solid #eee}
+.trust-grid{display:flex;justify-content:center;gap:40px;flex-wrap:wrap;max-width:1000px;margin:0 auto}
+.trust-badge{display:flex;align-items:center;gap:12px;padding:16px 24px;background:var(--color-cream);border-radius:12px}
+.trust-icon{font-size:28px}
+.trust-text{font-size:14px;font-weight:600;color:#333}
+
+/* Footer */
+.site-footer{background:#1a1a1a;color:#fff;padding:40px 20px 20px;margin-top:0}
+.footer-content{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:30px;margin-bottom:30px}
+.footer-section h3{color:var(--color-accent);font-size:16px;font-weight:700;margin-bottom:12px}
+.footer-section p{color:#ccc;font-size:14px;line-height:1.8;margin-bottom:8px}
+.footer-section a{color:#ccc;text-decoration:none;display:block;margin-bottom:8px;font-size:14px;transition:color 0.2s}
+.footer-section a:hover{color:#fff}
+.footer-bottom{border-top:1px solid #333;padding-top:20px;text-align:center;color:#999;font-size:13px}
+
+/* Animations */
+@keyframes pulse-dot{0%,100%{box-shadow:0 0 0 0 rgba(40,167,69,0.7)}50%{box-shadow:0 0 0 8px rgba(40,167,69,0)}}
+@keyframes pulse-badge{0%,100%{box-shadow:0 2px 8px rgba(220,53,69,0.3);transform:scale(1)}50%{box-shadow:0 4px 16px rgba(220,53,69,0.5);transform:scale(1.05)}}
+@keyframes shimmer{0%{left:-100%}50%{left:100%}100%{left:100%}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.fade-in{opacity:0;transform:translateY(20px);animation:fadeIn 0.6s ease forwards}
+.fade-in-delay-1{animation-delay:0.1s}
+.fade-in-delay-2{animation-delay:0.2s}
+.fade-in-delay-3{animation-delay:0.3s}
+
+/* Mobile Responsive */
+@media(max-width:768px){
+.product-hero{grid-template-columns:1fr;gap:30px;padding:20px 16px}
+.gallery{position:static}
+.container{padding:0 16px}
+.main-img{border-radius:12px;box-shadow:0 2px 12px rgba(var(--color-primary-rgb),0.15)}
+.product-info h1{font-size:clamp(28px,8vw,36px);margin-bottom:10px}
+.tagline{font-size:16px;margin-bottom:16px}
+.price-box{padding:8px 12px;margin-bottom:10px}
+.price{font-size:clamp(24px,7vw,30px)}
+.size-grid{grid-template-columns:repeat(5,1fr);gap:8px}
+.size-btn{padding:12px 8px;font-size:13px}
+.cta-btn{font-size:17px;padding:18px 20px;min-height:70px}
+.features-grid{grid-template-columns:repeat(2,1fr);gap:16px}
+.details-grid{grid-template-columns:1fr}
+.trust-grid{gap:16px}
+.trust-badge{padding:12px 16px}
+.announcement{padding:12px 16px;font-size:13px;line-height:1.4}
+}
+
+@media(max-width:480px){
+.size-grid{grid-template-columns:repeat(5,1fr);gap:6px}
+.size-btn{padding:10px 6px;font-size:12px}
+}
+
+/* Sticky Mobile CTA */
+@media(max-width:768px){
+.sticky-cta-mobile{position:fixed;bottom:0;left:0;right:0;background:#fff;padding:12px 16px;box-shadow:0 -4px 20px rgba(0,0,0,0.15);z-index:1000;display:none;border-top:3px solid var(--color-primary)}
+.sticky-cta-mobile.visible{display:block;animation:slideUp 0.3s ease}
+}
+@keyframes slideUp{from{transform:translateY(100%)}to{transform:translateY(0)}}
+</style>
+</head>
+
+<body>
+
+<!-- Sold Out Notification -->
+<div id="soldoutNotification" class="soldout-notification">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <circle cx="12" cy="12" r="10"/>
+    <line x1="12" y1="8" x2="12" y2="12"/>
+    <line x1="12" y1="16" x2="12.01" y2="16"/>
+  </svg>
+  <span>Size <span id="soldoutSize">32</span> just sold out!</span>
+</div>
+
+<!-- Main Content -->
+<div class="main-content" id="mainContent">
+
+  <!-- Announcement Bar -->
+  <div class="announcement">
+    FREE SHIPPING WORLDWIDE + 30-DAY EASY RETURNS
+  </div>
+
+  <!-- Worn by Favorites Bar -->
+  <div style="background:linear-gradient(135deg,var(--color-primary) 0%,var(--color-primary-darkest) 100%);padding:12px 20px;color:#fff">
+    <div style="max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap">
+      <span style="font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:1px;opacity:0.9">AS SEEN ON</span>
+      <span style="opacity:0.5;margin:0 8px">|</span>
+      <div style="display:flex;align-items:center;gap:20px">
+        <div style="display:flex;align-items:center;gap:8px">
+          <img src="./images/worn-by-favorites/alix-earle.webp" alt="Alix Earle" style="width:32px;height:32px;border-radius:50%;object-fit:cover;border:2px solid rgba(255,255,255,0.5)" loading="eager">
+          <span style="font-weight:600;font-size:13px">Alix Earle</span>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px">
+          <img src="./images/worn-by-favorites/monet-mcmichael.webp" alt="Monet McMichael" style="width:32px;height:32px;border-radius:50%;object-fit:cover;border:2px solid rgba(255,255,255,0.5)" loading="eager">
+          <span style="font-weight:600;font-size:13px">Monet McMichael</span>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px">
+          <img src="./images/worn-by-favorites/alex-cooper.webp" alt="Alex Cooper" style="width:32px;height:32px;border-radius:50%;object-fit:cover;border:2px solid rgba(255,255,255,0.5)" loading="eager">
+          <span style="font-weight:600;font-size:13px">Alex Cooper</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="product-hero">
+
+      <!-- Gallery -->
+      <div class="gallery">
+        <img class="main-img fade-in" id="heroImage" src="./images/product/prodsneaker12341 (6).jpg" alt="Gael Faux Suede Studded Convertible Kitten-Heel Knee-High Boots in Brown" width="600" height="800" loading="eager">
+        <div class="thumb-container" id="thumbs">
+          <img class="thumb active" src="./images/product/prodsneaker12341 (6).jpg" alt="Front view" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (7).jpg" alt="Model wearing boots" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (9).jpg" alt="Back view" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (10).jpg" alt="Model seated" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (11).jpg" alt="Convertible detail" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (12).jpg" alt="Pair view" onclick="changeImage(this)">
+          <img class="thumb" src="./images/product/prodsneaker12341 (13).jpg" alt="Model walking" onclick="changeImage(this)">
+        </div>
+      </div>
+
+      <!-- Product Info -->
+      <div class="product-info">
+        <h1 class="fade-in">Gael Studded Convertible Knee-High Boots</h1>
+        <p class="tagline fade-in fade-in-delay-1">Luxurious faux suede with silver stud embellishments. Detachable shafts transform into elegant kitten-heel pumps.</p>
+
+        <!-- Live Viewer Count -->
+        <div class="live-viewers fade-in fade-in-delay-2">
+          <span class="pulse-dot"></span>
+          <span style="font-weight:600;font-size:14px;color:#333">
+            <span id="viewerCount">47</span> people viewing this right now
+          </span>
+        </div>
+
+        <!-- Price Box -->
+        <div class="price-box fade-in fade-in-delay-2">
+          <span class="price">$89</span>
+          <span class="old-price">$233</span>
+          <span class="badge">62% OFF</span>
+        </div>
+
+        <!-- Stock Warning -->
+        <div class="stock-warning fade-in fade-in-delay-3">
+          <span id="stockCount">Only 12 left</span> - High demand item!
+        </div>
+
+        <!-- Size Selector -->
+        <div class="size-section fade-in fade-in-delay-3">
+          <div class="size-label">
+            <span>Select EU Size:</span>
+            <span style="font-weight:400;font-size:13px;color:#666">(Required)</span>
+          </div>
+          <div class="size-grid" id="sizeGrid">
+            <!-- Sizes 30-44, sold out: 30, 33, 42, 43, 44 -->
+            <button class="size-btn sold-out" data-size="30" disabled>30</button>
+            <button class="size-btn" data-size="31" onclick="selectSize(this)">31</button>
+            <button class="size-btn" data-size="32" onclick="selectSize(this)">32</button>
+            <button class="size-btn sold-out" data-size="33" disabled>33</button>
+            <button class="size-btn" data-size="34" onclick="selectSize(this)">34</button>
+            <button class="size-btn" data-size="35" onclick="selectSize(this)">35</button>
+            <button class="size-btn" data-size="36" onclick="selectSize(this)">36</button>
+            <button class="size-btn" data-size="37" onclick="selectSize(this)">37</button>
+            <button class="size-btn" data-size="38" onclick="selectSize(this)">38</button>
+            <button class="size-btn" data-size="39" onclick="selectSize(this)">39</button>
+            <button class="size-btn" data-size="40" onclick="selectSize(this)">40</button>
+            <button class="size-btn" data-size="41" onclick="selectSize(this)">41</button>
+            <button class="size-btn sold-out" data-size="42" disabled>42</button>
+            <button class="size-btn sold-out" data-size="43" disabled>43</button>
+            <button class="size-btn sold-out" data-size="44" disabled>44</button>
+          </div>
+          <p id="sizeError" style="color:#dc3545;font-size:13px;margin-top:8px;display:none;font-weight:600">Please select a size to continue</p>
+        </div>
+
+        <!-- CTA Buttons -->
+        <button class="cta-btn cta-primary" id="buyNowBtn" onclick="handleBuyNow()">
+          <span>BUY NOW - $89</span>
+          <span class="btn-subtitle">Free Express Shipping Included</span>
+        </button>
+
+        <!-- Trust Elements -->
+        <div style="display:flex;gap:16px;margin-top:16px;flex-wrap:wrap">
+          <div style="display:flex;align-items:center;gap:8px;font-size:13px;color:#555">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#28a745" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <span>Secure Checkout</span>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;font-size:13px;color:#555">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#28a745" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            <span>30-Day Returns</span>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;font-size:13px;color:#555">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#28a745" stroke-width="2"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+            <span>Free Shipping</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Features Section -->
+  <div class="features-section">
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">2️⃣</div>
+        <h3 class="feature-title">2-in-1 Design</h3>
+        <p class="feature-text">Convertible design - detachable shafts transform boots into elegant kitten-heel pumps</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">✨</div>
+        <h3 class="feature-title">Silver Studs</h3>
+        <p class="feature-text">Elegant silver stud embellishments throughout for a luxe, edgy finish</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">👠</div>
+        <h3 class="feature-title">Kitten Heel</h3>
+        <p class="feature-text">Comfortable 4cm heel height - perfect for all-day elegance</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🧵</div>
+        <h3 class="feature-title">Premium Suede</h3>
+        <p class="feature-text">Luxurious faux suede upper with fabric lining for ultimate comfort</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Details -->
+  <div class="details-section">
+    <h2>Product Details</h2>
+    <div class="details-grid">
+      <div class="detail-item">
+        <h3>Materials & Construction</h3>
+        <ul>
+          <li>Upper: Premium Faux Suede</li>
+          <li>Lining: Soft Fabric</li>
+          <li>Sole: Durable PU</li>
+          <li>Hardware: Silver-tone Studs</li>
+        </ul>
+      </div>
+      <div class="detail-item">
+        <h3>Specifications</h3>
+        <ul>
+          <li>Heel Height: 4cm (1.6 inches)</li>
+          <li>Shaft Height: Knee-high</li>
+          <li>Shoe Width: 6.8cm</li>
+          <li>Weight: 812g per pair</li>
+        </ul>
+      </div>
+      <div class="detail-item">
+        <h3>Care Instructions</h3>
+        <p>Clean with a soft brush to remove dust. For stains, use a suede cleaner and brush gently. Store in a cool, dry place away from direct sunlight. Use shoe trees to maintain shape.</p>
+      </div>
+      <div class="detail-item">
+        <h3>Styling Tips</h3>
+        <p>Pair with flowing midi dresses for romantic elegance, or style with skinny jeans for casual chic. The convertible design lets you switch from statement boots to sophisticated pumps in seconds.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Trust Section -->
+  <div class="trust-section">
+    <div class="trust-grid">
+      <div class="trust-badge">
+        <span class="trust-icon">🔒</span>
+        <span class="trust-text">Secure SSL Checkout</span>
+      </div>
+      <div class="trust-badge">
+        <span class="trust-icon">📦</span>
+        <span class="trust-text">Free Express Shipping</span>
+      </div>
+      <div class="trust-badge">
+        <span class="trust-icon">↩️</span>
+        <span class="trust-text">30-Day Easy Returns</span>
+      </div>
+      <div class="trust-badge">
+        <span class="trust-icon">💳</span>
+        <span class="trust-text">All Cards Accepted</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>About Us</h3>
+        <p>We bring you the latest trending fashion at unbeatable prices. Quality meets style in every product we offer.</p>
+      </div>
+      <div class="footer-section">
+        <h3>Customer Service</h3>
+        <a href="#">Contact Us</a>
+        <a href="#">Shipping Info</a>
+        <a href="#">Returns & Exchanges</a>
+        <a href="#">Size Guide</a>
+      </div>
+      <div class="footer-section">
+        <h3>Legal</h3>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms of Service</a>
+        <a href="#">Refund Policy</a>
+      </div>
+      <div class="footer-section">
+        <h3>Contact</h3>
+        <p>support@gaelboots.com</p>
+        <p>Mon-Fri: 9AM - 6PM EST</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 Gael Boots. All rights reserved.</p>
+    </div>
+  </footer>
+
+</div>
+
+<!-- Sticky Mobile CTA -->
+<div class="sticky-cta-mobile" id="stickyCta">
+  <button class="cta-btn cta-primary" style="margin-bottom:0;min-height:60px" onclick="handleBuyNow()">
+    <span>BUY NOW - $89</span>
+  </button>
+</div>
+
+<script>
+// Selected size tracking
+let selectedSize = null;
+
+// Image gallery functionality
+function changeImage(thumb) {
+  const heroImage = document.getElementById('heroImage');
+  heroImage.src = thumb.src;
+
+  // Update active thumbnail
+  document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
+  thumb.classList.add('active');
+}
+
+// Size selection
+function selectSize(btn) {
+  // Remove selected from all
+  document.querySelectorAll('.size-btn').forEach(b => b.classList.remove('selected'));
+
+  // Add selected to clicked
+  btn.classList.add('selected');
+  selectedSize = btn.dataset.size;
+
+  // Hide error if showing
+  document.getElementById('sizeError').style.display = 'none';
+}
+
+// Handle buy now click
+function handleBuyNow() {
+  if (!selectedSize) {
+    document.getElementById('sizeError').style.display = 'block';
+    document.querySelector('.size-section').scrollIntoView({ behavior: 'smooth', block: 'center' });
+    return;
+  }
+
+  // Proceed with checkout (placeholder)
+  alert('Proceeding to checkout with size ' + selectedSize);
+}
+
+// Dynamic viewer count
+function updateViewerCount() {
+  const viewerEl = document.getElementById('viewerCount');
+  const current = parseInt(viewerEl.textContent);
+  const change = Math.floor(Math.random() * 5) - 2; // -2 to +2
+  const newCount = Math.max(35, Math.min(65, current + change));
+  viewerEl.textContent = newCount;
+}
+
+// Update viewers every 5-10 seconds
+setInterval(updateViewerCount, 5000 + Math.random() * 5000);
+
+// Sticky CTA visibility for mobile
+let lastScrollY = 0;
+function handleScroll() {
+  const stickyCta = document.getElementById('stickyCta');
+  const productInfo = document.querySelector('.product-info');
+
+  if (window.innerWidth <= 768 && productInfo) {
+    const rect = productInfo.getBoundingClientRect();
+    if (rect.bottom < 0) {
+      stickyCta.classList.add('visible');
+    } else {
+      stickyCta.classList.remove('visible');
+    }
+  }
+}
+
+window.addEventListener('scroll', handleScroll);
+window.addEventListener('resize', handleScroll);
+
+// SIZE 32 SOLD OUT AFTER 15 SECONDS
+setTimeout(function() {
+  const size32Btn = document.querySelector('.size-btn[data-size="32"]');
+
+  if (size32Btn && !size32Btn.classList.contains('sold-out')) {
+    // Mark as sold out
+    size32Btn.classList.add('sold-out');
+    size32Btn.disabled = true;
+    size32Btn.onclick = null;
+
+    // If size 32 was selected, deselect it
+    if (selectedSize === '32') {
+      size32Btn.classList.remove('selected');
+      selectedSize = null;
+    }
+
+    // Show notification
+    const notification = document.getElementById('soldoutNotification');
+    document.getElementById('soldoutSize').textContent = '32';
+    notification.classList.add('show');
+
+    // Hide notification after 3 seconds
+    setTimeout(function() {
+      notification.classList.remove('show');
+    }, 3000);
+  }
+}, 15000); // 15 seconds
+
+// Initialize
+document.addEventListener('DOMContentLoaded', function() {
+  // Add fade-in animations
+  const fadeElements = document.querySelectorAll('.fade-in');
+  fadeElements.forEach(el => {
+    el.style.opacity = '1';
+    el.style.transform = 'translateY(0)';
+  });
+});
+</script>
+
+</body>
+</html>

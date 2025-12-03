@@ -1,0 +1,230 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Emma K.",
+      "age": 23,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "OBSESSED with these!! the convertible design is literally genius - wore them as boots to dinner then pumps for dancing after. studs are so cute and heel height is perfect 💕",
+      "date": "2 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 2,
+      "name": "Sophia R.",
+      "age": 26,
+      "platform": "Instagram",
+      "rating": 5,
+      "text": "best purchase this year!! got so many compliments at my friend's wedding. the 4cm heel is comfy enough to dance all night and the studs add just the right amount of edge ✨",
+      "date": "5 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 3,
+      "name": "Madison L.",
+      "age": 21,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "ok but these are actually perfect?? wore them to brunch as pumps then converted to boots for shopping. faux suede looks expensive and i cant believe theyre only $89!!",
+      "date": "1 week ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 4,
+      "name": "Ava M.",
+      "age": 28,
+      "platform": "TikTok",
+      "rating": 4,
+      "text": "love these sm but sizing runs slightly small - went up half a size and theyre perfect now. the convertible thing is so practical for work to happy hour transitions",
+      "date": "1 week ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 5,
+      "name": "Chloe B.",
+      "age": 24,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "these boots are EVERYTHING 😍 the silver studs catch light so prettily and i get asked where i got them literally every time i wear them. see my pic!",
+      "date": "3 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 6,
+      "name": "Isabella T.",
+      "age": 22,
+      "platform": "Google",
+      "rating": 5,
+      "text": "Absolutely love these boots! The convertible design means I'm basically getting two pairs for the price of one. Quality is amazing for the price point and they're surprisingly comfortable.",
+      "date": "2 weeks ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 7,
+      "name": "Olivia H.",
+      "age": 27,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "never writing a review but HAD to for these!! wore them on a date and my bf couldn't stop complimenting them lol. kitten heel is so comfy i forgot i was wearing heels",
+      "date": "4 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 8,
+      "name": "Mia S.",
+      "age": 25,
+      "platform": "Instagram",
+      "rating": 5,
+      "text": "the versatility is unreal!! office appropriate as pumps, then boots for dinner dates. faux suede is buttery soft and studs aren't too much or too little 🤍",
+      "date": "6 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 9,
+      "name": "Zoe P.",
+      "age": 20,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "yall these are SO worth it omg. took them on a trip and saved so much suitcase space bc theyre basically 2 shoes in 1!! also they match everything",
+      "date": "1 week ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 10,
+      "name": "Lily W.",
+      "age": 29,
+      "platform": "Facebook",
+      "rating": 5,
+      "text": "I'm usually skeptical about convertible shoes but these exceeded all expectations! The mechanism is secure, the studs look expensive, and they're actually comfortable. Been wearing them nonstop.",
+      "date": "10 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 11,
+      "name": "Grace F.",
+      "age": 23,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "cant stop wearing these 😭 the heel height is perfect for someone who doesnt usually do heels. converted them in an uber before going into a party and it took 2 seconds",
+      "date": "3 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 12,
+      "name": "Harper J.",
+      "age": 26,
+      "platform": "TikTok",
+      "rating": 4,
+      "text": "really cute and def worth the price!! only giving 4 stars bc i wish they came in more colors but the quality is amazing. studs stay secure even after wearing them a ton",
+      "date": "2 weeks ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 13,
+      "name": "Aria C.",
+      "age": 21,
+      "platform": "Instagram",
+      "rating": 5,
+      "text": "best impulse buy ever!! saw them on my fyp and ordered immediately. wore them to a concert as boots then switched to pumps when my feet needed a break. 10/10 recommend 💫",
+      "date": "1 week ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 14,
+      "name": "Ella D.",
+      "age": 30,
+      "platform": "Google",
+      "rating": 5,
+      "text": "Such a smart design! I wear them to the office as pumps and then convert to boots for evening events. The faux suede material is great quality and the silver studs are the perfect accent without being too flashy.",
+      "date": "9 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 15,
+      "name": "Luna G.",
+      "age": 24,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "obsessedddd these are so chic!! the studs give major rockstar vibes but still elegant enough for fancy dinners. also this is random but they photograph so well?? check my pic",
+      "date": "5 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 16,
+      "name": "Scarlett V.",
+      "age": 27,
+      "platform": "Instagram",
+      "rating": 5,
+      "text": "finally found boots that dont kill my feet!! the 4cm heel is literally perfect and i love that i can switch to pumps when i want. quality is insane for $89 🔥",
+      "date": "1 week ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 17,
+      "name": "Riley N.",
+      "age": 22,
+      "platform": "TikTok",
+      "rating": 5,
+      "text": "these boots are the definition of smart fashion!! wore them on a first date (as pumps) and switched to boots after for a walk. he was so impressed lmaoo. also theyre comfy af",
+      "date": "4 days ago",
+      "verified": true,
+      "photo": true
+    },
+    {
+      "id": 18,
+      "name": "Nova A.",
+      "age": 25,
+      "platform": "Facebook",
+      "rating": 5,
+      "text": "Love love love!! Got them for a girls trip and they were perfect for everything - brunch, museums, dinner, clubs. The convertible design saved so much luggage space and the studs are gorgeous in photos!",
+      "date": "12 days ago",
+      "verified": true,
+      "photo": true
+    }
+  ],
+  "summary": {
+    "total_count": 18,
+    "average_rating": 4.9,
+    "platform_breakdown": {
+      "tiktok": 11,
+      "instagram": 4,
+      "facebook": 2,
+      "google": 2
+    },
+    "key_themes": [
+      "Convertible design versatility",
+      "Comfortable 4cm kitten heel",
+      "Silver studs aesthetic",
+      "Great value at $89",
+      "Perfect for multiple occasions",
+      "Travel-friendly 2-in-1 design",
+      "High-quality faux suede",
+      "Office to evening transitions"
+    ],
+    "most_mentioned_features": {
+      "convertible_design": 15,
+      "comfort": 12,
+      "studs": 11,
+      "heel_height": 8,
+      "versatility": 16,
+      "value_for_money": 9
+    }
+  }
+}
