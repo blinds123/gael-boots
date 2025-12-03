@@ -24,6 +24,16 @@ exports.handler = async (event) => {
       };
     }
 
+    // Validate only allowed amounts: $59 (order), $19 (preorder), $29 (preorder+bump)
+    const validAmounts = [19, 29, 59];
+    if (!validAmounts.includes(Number(amountUSD))) {
+      return {
+        statusCode: 400,
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ error: 'Invalid amount' })
+      };
+    }
+
     // Forward request to pool server
     const response = await fetch(`${POOL_SERVER}/buy-now`, {
       method: 'POST',
